@@ -1,0 +1,11 @@
+A 40 C
+A 30 F
+A 15 G
+B 17 C
+B 19 D
+B 10 E
+C 22 D
+C 20 G
+E 14 F
+E 30 G
+F 12 G

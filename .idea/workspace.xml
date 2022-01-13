@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="data_structure" targetName="data_structure" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d1c3ace0-d41f-485b-9570-6496f3070177" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1ZGRbue3PdritSu6cdfDkiIBUSP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cmake-build-debug" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cmake-build-debug" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cmake-build-debug" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="data_structure" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="data_structure" TARGET_NAME="data_structure" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="data_structure" RUN_TARGET_NAME="data_structure">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1c3ace0-d41f-485b-9570-6496f3070177" name="Default Changelist" comment="" />
+      <created>1584463518331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584463518331</updated>
+      <workItem from="1584463519602" duration="5332000" />
+      <workItem from="1584494058323" duration="913000" />
+      <workItem from="1584495610583" duration="40000" />
+      <workItem from="1585037972895" duration="9532000" />
+      <workItem from="1585094678312" duration="5806000" />
+      <workItem from="1585100997831" duration="402000" />
+      <workItem from="1585112469221" duration="51000" />
+      <workItem from="1585532626349" duration="345000" />
+      <workItem from="1585546925321" duration="696000" />
+      <workItem from="1585577968131" duration="34000" />
+      <workItem from="1585657122806" duration="1489000" />
+      <workItem from="1585658647314" duration="1077000" />
+      <workItem from="1585699627718" duration="2749000" />
+      <workItem from="1585749712129" duration="4294000" />
+      <workItem from="1585798064799" duration="65000" />
+      <workItem from="1585800336476" duration="2759000" />
+      <workItem from="1585817582091" duration="4101000" />
+      <workItem from="1586003146088" duration="35000" />
+      <workItem from="1586159766746" duration="5706000" />
+      <workItem from="1586238710712" duration="98000" />
+      <workItem from="1586238826843" duration="11225000" />
+      <workItem from="1586272629690" duration="2640000" />
+      <workItem from="1586304514372" duration="799000" />
+      <workItem from="1586305336301" duration="150000" />
+      <workItem from="1586305512308" duration="1727000" />
+      <workItem from="1586307266661" duration="3137000" />
+      <workItem from="1586310436816" duration="900000" />
+      <workItem from="1586311416217" duration="64000" />
+      <workItem from="1586312019200" duration="338000" />
+      <workItem from="1586320743444" duration="32000" />
+      <workItem from="1586411809331" duration="719000" />
+      <workItem from="1586450121783" duration="1233000" />
+      <workItem from="1586534521030" duration="997000" />
+      <workItem from="1586615631094" duration="22000" />
+      <workItem from="1586737879344" duration="52000" />
+      <workItem from="1586738024662" duration="1466000" />
+      <workItem from="1586758374568" duration="5134000" />
+      <workItem from="1586856949286" duration="4706000" />
+      <workItem from="1586919051212" duration="5954000" />
+      <workItem from="1586930175246" duration="22000" />
+      <workItem from="1586949511281" duration="6428000" />
+      <workItem from="1587117922059" duration="1286000" />
+      <workItem from="1587125278665" duration="2151000" />
+      <workItem from="1587129153028" duration="29000" />
+      <workItem from="1587129340026" duration="369000" />
+      <workItem from="1587194693179" duration="4394000" />
+      <workItem from="1587306026562" duration="569000" />
+      <workItem from="1587403587406" duration="640000" />
+      <workItem from="1587404298534" duration="357000" />
+      <workItem from="1587465898423" duration="3821000" />
+      <workItem from="1587491270878" duration="3845000" />
+      <workItem from="1587499476788" duration="14000" />
+      <workItem from="1587501065020" duration="321000" />
+      <workItem from="1587501401597" duration="593000" />
+      <workItem from="1587513808472" duration="2586000" />
+      <workItem from="1587516828394" duration="513000" />
+      <workItem from="1588040745911" duration="3200000" />
+      <workItem from="1588095055844" duration="390000" />
+      <workItem from="1588095463427" duration="2336000" />
+      <workItem from="1588118387988" duration="1909000" />
+      <workItem from="1588138336884" duration="27000" />
+      <workItem from="1588265039863" duration="6301000" />
+      <workItem from="1588271443871" duration="5437000" />
+      <workItem from="1588277515939" duration="4000" />
+      <workItem from="1588550856535" duration="1077000" />
+      <workItem from="1588673820890" duration="4362000" />
+      <workItem from="1588727166084" duration="7000" />
+      <workItem from="1589173807911" duration="10000" />
+      <workItem from="1589294591738" duration="3121000" />
+      <workItem from="1589328348519" duration="1849000" />
+      <workItem from="1589330234155" duration="3306000" />
+      <workItem from="1589891289944" duration="2790000" />
+      <workItem from="1589901162112" duration="518000" />
+      <workItem from="1589933129784" duration="3504000" />
+      <workItem from="1589936706985" duration="507000" />
+      <workItem from="1590063480038" duration="1972000" />
+      <workItem from="1590067439922" duration="180000" />
+      <workItem from="1590394372925" duration="9783000" />
+      <workItem from="1590477311981" duration="2992000" />
+      <workItem from="1590481144130" duration="643000" />
+      <workItem from="1590481929102" duration="7000" />
+      <workItem from="1590512605673" duration="2443000" />
+      <workItem from="1590537736960" duration="2171000" />
+      <workItem from="1590539936696" duration="52000" />
+      <workItem from="1590556162685" duration="80000" />
+      <workItem from="1590670419821" duration="3456000" />
+      <workItem from="1590675827145" duration="23000" />
+      <workItem from="1590860975237" duration="2349000" />
+      <workItem from="1590991122175" duration="27000" />
+      <workItem from="1590998741732" duration="2559000" />
+      <workItem from="1591003773293" duration="1653000" />
+      <workItem from="1591025788943" duration="835000" />
+      <workItem from="1591033357309" duration="4119000" />
+      <workItem from="1591271184896" duration="29000" />
+      <workItem from="1591518688742" duration="7046000" />
+      <workItem from="1591626981449" duration="738000" />
+      <workItem from="1591699496115" duration="2722000" />
+      <workItem from="1591749784282" duration="5000" />
+      <workItem from="1592035767628" duration="1000" />
+      <workItem from="1592125713439" duration="4000" />
+      <workItem from="1592197455814" duration="59000" />
+      <workItem from="1592205432456" duration="5282000" />
+      <workItem from="1592305851777" duration="121000" />
+      <workItem from="1592352328422" duration="364000" />
+      <workItem from="1592394338524" duration="31000" />
+      <workItem from="1603638147514" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="204" y="361" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590481263337">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="204" y="361" key="#com.intellij.fileTypes.FileTypeChooser/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1590481263337" />
+    <state x="218" y="289" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586919152349">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="218" y="289" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1586919152349" />
+    <state x="218" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.23.1440.877/0.23.1920.991@0.23.1920.991" timestamp="1584465407606" />
+    <state width="918" height="2" key="GridCell.Tab.0.bottom" timestamp="1592352809174">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="2" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585825557311" />
+    <state width="1398" height="190" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1585096522423" />
+    <state width="1398" height="359" key="GridCell.Tab.0.bottom/0.23.1440.815@0.23.1440.815" timestamp="1585101415621" />
+    <state width="678" height="183" key="GridCell.Tab.0.bottom/0.23.1440.817@0.23.1440.817" timestamp="1588044197686" />
+    <state width="1001" height="288" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1586165336302" />
+    <state width="1398" height="2" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1586160266643" />
+    <state width="1238" height="132" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1592304294609" />
+    <state width="918" height="2" key="GridCell.Tab.0.bottom/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1592352809174" />
+    <state width="918" height="17" key="GridCell.Tab.0.bottom/1920.23.1440.877/0.23.1920.991@0.23.1920.991" timestamp="1591627725048" />
+    <state width="918" height="2" key="GridCell.Tab.0.center" timestamp="1592352809167">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="2" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1585825557311" />
+    <state width="1398" height="190" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1585096522422" />
+    <state width="1398" height="359" key="GridCell.Tab.0.center/0.23.1440.815@0.23.1440.815" timestamp="1585101415621" />
+    <state width="678" height="183" key="GridCell.Tab.0.center/0.23.1440.817@0.23.1440.817" timestamp="1588044197686" />
+    <state width="1001" height="288" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1586165336301" />
+    <state width="1398" height="2" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1586160266642" />
+    <state width="1238" height="132" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1592304294608" />
+    <state width="918" height="2" key="GridCell.Tab.0.center/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1592352809167" />
+    <state width="918" height="17" key="GridCell.Tab.0.center/1920.23.1440.877/0.23.1920.991@0.23.1920.991" timestamp="1591627725047" />
+    <state width="918" height="2" key="GridCell.Tab.0.left" timestamp="1592352809166">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="2" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1585825557310" />
+    <state width="1398" height="190" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1585096522421" />
+    <state width="1398" height="359" key="GridCell.Tab.0.left/0.23.1440.815@0.23.1440.815" timestamp="1585101415620" />
+    <state width="678" height="183" key="GridCell.Tab.0.left/0.23.1440.817@0.23.1440.817" timestamp="1588044197686" />
+    <state width="1001" height="288" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1586165336301" />
+    <state width="1398" height="2" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1586160266642" />
+    <state width="1238" height="132" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1592304294608" />
+    <state width="918" height="2" key="GridCell.Tab.0.left/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1592352809166" />
+    <state width="918" height="17" key="GridCell.Tab.0.left/1920.23.1440.877/0.23.1920.991@0.23.1920.991" timestamp="1591627725046" />
+    <state width="918" height="2" key="GridCell.Tab.0.right" timestamp="1592352809172">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="2" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1585825557311" />
+    <state width="1398" height="190" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1585096522423" />
+    <state width="1398" height="359" key="GridCell.Tab.0.right/0.23.1440.815@0.23.1440.815" timestamp="1585101415621" />
+    <state width="678" height="183" key="GridCell.Tab.0.right/0.23.1440.817@0.23.1440.817" timestamp="1588044197686" />
+    <state width="1001" height="288" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1586165336302" />
+    <state width="1398" height="2" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1586160266643" />
+    <state width="1238" height="132" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1592304294609" />
+    <state width="918" height="2" key="GridCell.Tab.0.right/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1592352809172" />
+    <state width="918" height="17" key="GridCell.Tab.0.right/1920.23.1440.877/0.23.1920.991@0.23.1920.991" timestamp="1591627725048" />
+    <state width="918" height="330" key="GridCell.Tab.1.bottom" timestamp="1591627723708">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state width="918" height="357" key="GridCell.Tab.1.bottom/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1590515167850" />
+    <state width="918" height="330" key="GridCell.Tab.1.bottom/1920.23.1440.877/0.23.1920.991@0.23.1920.991" timestamp="1591627723708" />
+    <state width="918" height="330" key="GridCell.Tab.1.center" timestamp="1591627723706">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state width="918" height="357" key="GridCell.Tab.1.center/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1590515167850" />
+    <state width="918" height="330" key="GridCell.Tab.1.center/1920.23.1440.877/0.23.1920.991@0.23.1920.991" timestamp="1591627723706" />
+    <state width="918" height="330" key="GridCell.Tab.1.left" timestamp="1591627723705">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state width="918" height="357" key="GridCell.Tab.1.left/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1590515167849" />
+    <state width="918" height="330" key="GridCell.Tab.1.left/1920.23.1440.877/0.23.1920.991@0.23.1920.991" timestamp="1591627723705" />
+    <state width="918" height="330" key="GridCell.Tab.1.right" timestamp="1591627723707">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state width="918" height="357" key="GridCell.Tab.1.right/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1590515167850" />
+    <state width="918" height="330" key="GridCell.Tab.1.right/1920.23.1440.877/0.23.1920.991@0.23.1920.991" timestamp="1591627723707" />
+    <state x="461" y="156" key="SettingsEditor" timestamp="1588138355143">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state x="461" y="156" key="SettingsEditor/1920.23.1440.877/0.23.1920.991@0.23.1920.991" timestamp="1588138355143" />
+    <state x="637" y="351" key="com.intellij.ide.util.TipDialog" timestamp="1584495613917">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state x="637" y="351" key="com.intellij.ide.util.TipDialog/1920.23.1440.877/0.23.1920.991@0.23.1920.991" timestamp="1584495613917" />
+    <state x="1109" y="217" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589331891802">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1109" y="217" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1589331891802" />
+    <state x="1109" y="205" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.23.1440.877/0.23.1920.991@0.23.1920.991" timestamp="1585700705213" />
+    <state x="720" y="23" width="720" height="877" key="dock-window-1" timestamp="1591144418174">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="720" y="23" width="720" height="822" key="dock-window-1/0.23.1440.823@0.23.1440.823" timestamp="1586160588705" />
+    <state x="720" y="23" width="720" height="877" key="dock-window-1/0.23.1440.877@0.23.1440.877" timestamp="1591144418174" />
+    <state x="960" y="23" width="960" height="877" key="dock-window-1/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1590481186732" />
+    <state x="785" y="123" width="760" height="791" key="dock-window-1/1920.23.1440.877/0.23.1920.991@0.23.1920.991" timestamp="1585657283244" />
+    <state x="720" y="23" width="720" height="604" key="dock-window-2" timestamp="1586161416161">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="720" y="23" width="720" height="604" key="dock-window-2/0.23.1440.821@0.23.1440.821" timestamp="1586161416161" />
+    <state x="720" y="23" width="720" height="822" key="dock-window-2/0.23.1440.823@0.23.1440.823" timestamp="1586160588706" />
+    <state x="1047" y="23" width="393" height="411" key="dock-window-3" timestamp="1586164036459">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="1047" y="23" width="393" height="411" key="dock-window-3/0.23.1440.821@0.23.1440.821" timestamp="1586164036459" />
+    <state x="618" y="308" width="683" height="486" key="find.popup" timestamp="1586859132995">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="618" y="308" width="683" height="486" key="find.popup/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1586859132995" />
+    <state x="847" y="256" width="894" height="722" key="search.everywhere.popup" timestamp="1586923866816">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="635" y="216" width="670" height="599" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1586241044543" />
+    <state x="847" y="256" width="894" height="722" key="search.everywhere.popup/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1586923866816" />
+    <state x="847" y="241" width="670" height="676" key="search.everywhere.popup/1920.23.1440.877/0.23.1920.991@0.23.1920.991" timestamp="1585751217308" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Lab1-1.cpp</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
